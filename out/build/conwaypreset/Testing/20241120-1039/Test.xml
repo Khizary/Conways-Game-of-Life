@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="Win32-mingw32-make"
+	BuildStamp="20241120-1039-Experimental"
+	Name="Thinkpad"
+	Generator="ctest-3.31.0-rc3"
+	CompilerName="C:/mingw64/bin/g++.exe"
+	CompilerVersion="13.1.0"
+	OSName="Windows"
+	Hostname="Thinkpad"
+	OSRelease=" Professional"
+	OSVersion=" (Build 22631)"
+	OSPlatform="AMD64"
+	Is64Bits="1"
+	VendorString="GenuineIntel"
+	VendorID="Intel Corporation"
+	FamilyID="6"
+	ModelID="14"
+	ModelName=""
+	ProcessorCacheSize="-1"
+	NumberOfLogicalCPU="8"
+	NumberOfPhysicalCPU="4"
+	TotalVirtualMemory="17278"
+	TotalPhysicalMemory="16254"
+	LogicalProcessorsPerPhysical="2"
+	ProcessorClockFrequency="1896"
+	>
+	<Testing>
+		<StartDateTime>Nov 20 17:27 West Asia Standard Time</StartDateTime>
+		<StartTestTime>1732105649</StartTestTime>
+		<TestList/>
+		<EndDateTime>Nov 20 17:27 West Asia Standard Time</EndDateTime>
+		<EndTestTime>1732105649</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>
